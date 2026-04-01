@@ -1,7 +1,7 @@
 import { FadeIn } from './FadeIn'
 import { RootsDivider } from './RootsDivider'
 
-const YOUTUBE_ID = '[ID DO YOUTUBE SHORTS — fornecido pelo cliente]'
+const YOUTUBE_ID = 'KT15RF8yFUg'
 
 export const VideoSection = () => {
   const isPlaceholder = YOUTUBE_ID.startsWith('[')

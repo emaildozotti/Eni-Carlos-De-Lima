@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const HERO_IMAGE_URL = '[URL DA FOTO HERO — fornecida pelo cliente]'
+const HERO_IMAGE_URL = '/hero.jpg'
 const WHATSAPP_URL = 'https://wa.me/5561991750684?text=Ol%C3%A1%2C%20Eni%21%20Vim%20pela%20sua%20p%C3%A1gina%20e%20gostaria%20de%20entender%20como%20o%20processo%20de%20Restaura%C3%A7%C3%A3o%20do%20Fluxo%20funciona.%20Pode%20me%20contar%20mais%3F'
 
 const PhotoPlaceholder = () => (

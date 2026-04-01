@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { FadeIn } from './FadeIn'
 import { RootsDivider } from './RootsDivider'
 
-const ABOUT_IMAGE_URL = '[URL DA FOTO ABOUT — fornecida pelo cliente]'
+const ABOUT_IMAGE_URL = '/sobre.jpg'
 
 const CREDENTIALS = [
   'Terapeuta Sistêmica',
