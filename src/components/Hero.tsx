@@ -146,9 +146,9 @@ export const Hero = () => {
           style={{ minHeight: '60vh', paddingBottom: '0' }}
         >
           <div
-            className="relative w-full max-w-sm md:max-w-none"
+            className="relative w-full max-w-xs md:max-w-sm"
             style={{
-              height: 'clamp(420px, 70vh, 720px)',
+              height: 'clamp(380px, 55vh, 560px)',
               animation: 'fadeUp 1.4s ease forwards',
               animationDelay: '0.2s',
               opacity: 0,
